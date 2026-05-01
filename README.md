@@ -19,7 +19,7 @@ Aplikasi daftar kepengurusan organisasi ITC Family yang dibangun menggunakan Flu
 Pastikan kamu sudah menginstal Flutter SDK di komputermu.
 
 1. Clone repository ini:
-   git clone (link repository)
+   git clone https://github.com/Albin-1731/itc-the-seeker-2026-Albin-Abhinaya-Tsaqif.git
 
 2. Masuk ke direktori proyek:
    cd itc-the-seeker-2026-albin-abhinaya-tsaqif
